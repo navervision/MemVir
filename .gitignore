@@ -1,0 +1,5 @@
+__pycache__
+*swp
+DB
+pretrained_models*
+.ipynb_checkpoints
