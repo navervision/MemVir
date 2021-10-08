@@ -6,7 +6,7 @@ Official PyTorch implementation of *"Learning with Memory-based Virtual Classes 
 
 <sup>1</sup>@NAVER/LINE Vision, <sup>2</sup>@NAVER Clova Speech
 
-- [Paper](https://arxiv.org/abs/2103.16940) 
+- [Paper](https://arxiv.org/abs/2103.16940) | [Presentation](https://youtu.be/s0FcLkE-ZBY) | [PPT](https://www.slideshare.net/ByungSooKo1/iccv2021-learning-with-memorybased-virtual-classes-for-deep-metric-learning-ppt) | [Poster](https://www.slideshare.net/ByungSooKo1/iccv2021-learning-with-memorybased-virtual-classes-for-deep-metric-learning-poster)
 
 ## Overview
 
