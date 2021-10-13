@@ -2,7 +2,7 @@
 
 Official PyTorch implementation of *"Learning with Memory-based Virtual Classes for Deep Metric Learning"* (ICCV 2021)
 
-**Byungsoo Ko\*<sup>1</sup>, Geonmo Gu\*<sup>1</sup>, Han-Gyu Kim<sup>2</sup>** (* Authors contributed equally.)
+**Byungsoo Ko\*<sup>1</sup>, Geonmo Gu\*<sup>1</sup>,  Han-Gyu Kim<sup>2</sup>** (* Authors contributed equally.)
 
 <sup>1</sup>@NAVER/LINE Vision, <sup>2</sup>@NAVER Clova Speech
 
